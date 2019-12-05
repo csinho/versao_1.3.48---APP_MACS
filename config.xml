@@ -19,6 +19,7 @@
   <access origin="*"/>
   <allow-navigation href="*"/>
   <allow-navigation href="file://*/*"/>
+  <allow-navigation href="http://10.17.178.176:8100"/>
   <feature name="StatusBar">
     <param name="ios-package" onload="true" value="CDVStatusBar"/>
   </feature>
