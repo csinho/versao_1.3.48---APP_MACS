@@ -30,3 +30,4 @@
 - jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore android-release-unsigned.apk alias_name
 - zipalign -v 4 android-release-unsigned.apk release.apk
 
+![Gif de Amostra](https://github.com/csinho/mACS_Projeto/blob/master/macs.gif)
